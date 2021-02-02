@@ -1,0 +1,23 @@
+{
+  "name": "interface_test",
+  "version": "1.0.0",
+  "description": "Trying out form verification and dynamic user interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macborkow/interface_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macborkow/interface_test/issues"
+  },
+  "homepage": "https://github.com/macborkow/interface_test#readme",
+  "devDependencies": {
+    "webpack": "^5.19.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
